@@ -3,6 +3,10 @@ Curated list of useful (free) Mac apps to make your life easier.
 
 ## Development
 
+### [Sequel Pro](https://www.sequelpro.com/)
+A great client for MySQL with a lot of features.
+_Note: It appears that Sequel Pro currently does not support MySQL8, but you can still use it for MySQL5._
+
 ## Media Playback
 
 ### [IINA](https://iina.io/)
